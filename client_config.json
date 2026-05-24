@@ -5,6 +5,6 @@
     "version_code": 32,
     "space_available": 4072,
     "url_cache": "http://game.samp-mobile.com/files.zip",
-    "url_cache_files": "http://51.222.160.0/api/files.php"
+    "url_cache_files": "https://apibeta.thunder-samp.com/data.json"
   }
 }
