@@ -1,0 +1,32 @@
+
+{
+  "servers": [
+    {
+      "number": 1,
+      "name": "LAST CITY | (#SV1)",
+      "ip": "51.38.205.167",
+      "port": 18429,
+      "online": 200,
+      "maxonline": 1000,
+      "password": false
+    },
+    {
+      "number": 2,
+      "name": "20Dh | VIP SERVER",
+      "ip": "51.83.189.15",
+      "port": 7777,
+      "online": 40,
+      "maxonline": 1000,
+      "password": true
+    },
+    {
+      "number": 3,
+      "name": "20Dh | (ANTI HACK)",
+      "ip": "51.83.189.15",
+      "port": 7777,
+      "online": 40,
+      "maxonline": 1000,
+      "password": true
+    }
+  ]
+}
