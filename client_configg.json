@@ -1,0 +1,7 @@
+{
+  "client_config": {
+    "version_code": 1,
+    "url_launcher": "https://distrito.servegame.com/gta/update.apk",
+    "url_cache_files": "https://distrito.servegame.com/gta/com.imperiorj.game/generate_files.php"
+  }
+}
